@@ -1,0 +1,44 @@
+Partie 1 : Fichiers et rendus
+
+- Quel fichier correspond à quoi ? (Test, train et submit)
+=> Train uniquement
+
+- Demander fiabilité du fichier. 
+=>Erreurs potentielles possibles.
+
+- Quels rendus attendus ? 
+=>Tout ce qu'il faut pour présenter notre travail au client (tout est possible) + nécessaire pour faire fonctionner le code pour un néophite.
+
+Partie 2 : Valorisation
+
+Priorisation :
+
+- Comment est estimé le tarif d'un bien aujourd'hui ? (Priorisation de champs) 
+
+=> Attention prix trop bas = client qui va chez les concurrents. (Gonfler un peu) pas en dessous de -10% inférieur max et au dessus 30% +10% avec variance à 20% [-10% à 30%]
+=>Attention prix de vente != prix mis en vente (négociations)
+
+- Priorisation d'un champ par rapport à un autre ?
+=> Ancienne mise en vente similaire dirige le prix fixé par un commercial.
+
+-> faire différents traitements en fonction des tailles des biens (commercial s'appuie sur des bien similaire pour fixer les prix).
+
+
+- Y a t-il des lignes à prioriser selon certains critères ? (Valorisation + récentes mieux ?)
+
+Faire attention à la tendance globale du marché => aide pour les commerciaux
+Mois à mois pour fixer cette tendance (+récent à prioriser).
+
+
+Filtres :
+
+- Champs Indispensables ? 
+Non, mais avertissement pour commercial. -> 
+Si trop peu de données (soit nb lignes, soit les champs)
+Présentation des données traitées pour l'estimation réalisée (ex : tableau avec présentation des données utilisées et points importants/avertissement)
+
+
+Partie 3 : Bonus
+
+- Ressources pour valorisation ? (site web, articles)
+Attention au prix fixé sur site en ligne => souvent supérieur au prix réellement vendu
