@@ -48,7 +48,7 @@ GrLivArea: Above grade (ground) living area square feet
 BsmtFullBath: Basement full bathrooms
 BsmtHalfBath: Basement half bathrooms
 FullBath: Full bathrooms above grade
-HalfBath: Half baths above grade
+HalfBath: Half baths above gradezz
 Bedroom: Number of bedrooms above basement level
 Kitchen: Number of kitchens
 KitchenQual: Kitchen quality

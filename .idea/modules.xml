@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/00000_DATASCIENCES/0000_LIVE_PANDAS/ANALYSE_TWITCH/.idea/ANALYSE_TWITCH.iml" filepath="$USER_HOME$/Desktop/00000_DATASCIENCES/0000_LIVE_PANDAS/ANALYSE_TWITCH/.idea/ANALYSE_TWITCH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/machine_learning_fil_rouge.iml" filepath="$PROJECT_DIR$/.idea/machine_learning_fil_rouge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../TP_TITANIC/.idea/titanic.iml" filepath="$PROJECT_DIR$/../../TP_TITANIC/.idea/titanic.iml" />
+    </modules>
+  </component>
+</project>

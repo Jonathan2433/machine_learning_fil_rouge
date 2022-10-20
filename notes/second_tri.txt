@@ -1,27 +1,38 @@
 On garde :
 SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
+
 LotArea: Lot size in square feet
 Utilities: Type of utilities available
 Neighborhood: Physical locations within Ames city limits
-
 1stFlrSF: First Floor square feet      => A Additionner pour surface totale
 2ndFlrSF: Second floor square feet     =>
 GrLivArea: Above grade (ground) living area square feet => Surface hors sous sol
 
+
 Bedroom: Number of bedrooms above basement level
-
 PoolArea: Pool area in square feet
-
 MoSold: Month Sold
 YrSold: Year Sold
 SaleType: Type of sale
 SaleCondition: Condition of sale
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 Plutôt on garde :
 MSSubClass: The building class
-MSZoning: The general zoning classification
-LotConfig: Lot configuration
+MSZoning: The general zoning classification (LINEARITE OBSERV SUR GRAPH)
+LotConfig: Lot configuration (LINEARITE OBSERV SUR GRAPH)
 LandSlope: Slope of property
 BldgType: Type of dwelling
 HouseStyle: Style of dwelling
@@ -29,46 +40,45 @@ OverallQual: Overall material and finish quality
 OverallCond: Overall condition rating
 YearBuilt: Original construction date
 YearRemodAdd: Remodel date
-ExterQual: Exterior material quality
+ExterQual: Exterior material quality (LINEARITE OBSERV SUR GRAPH)
 ExterCond: Present condition of the material on the exterior
 TotalBsmtSF: Total square feet of basement area
 Heating: Type of heating
 HeatingQC: Heating quality and condition
 CentralAir: Central air conditioning
 Electrical: Electrical system
-
 BsmtFullBath: Basement full bathrooms
 FullBath: Full bathrooms above grade
 =>Additionner
-
 BsmtHalfBath: Basement half bathrooms
 HalfBath: Half baths above grade
 =>Additionner
-
 TotRmsAbvGrd: Total rooms above grade (does not include bathrooms)
-
 Functional: Home functionality rating
-
 Fireplaces: Number of fireplaces
 FireplaceQu: Fireplace quality
-
 GarageType: Garage location
+
+
+
+
+
+
+
+
 GarageYrBlt: Year garage was built
 GarageFinish: Interior finish of the garage
 GarageCars: Size of garage in car capacity
 GarageArea: Size of garage in square feet
 GarageQual: Garage quality
 GarageCond: Garage condition
-
 Kitchen: Number of kitchens
 KitchenQual: Kitchen quality
-
 OpenPorchSF: Open porch area in square feet
 EnclosedPorch: Enclosed porch area in square feet
 3SsnPorch: Three season porch area in square feet
 ScreenPorch: Screen porch area in square feet
 (Comment traiter)
-
 BsmtQual: Height of the basement
 BsmtCond: General condition of the basement
 BsmtExposure: Walkout or garden level basement walls
@@ -77,22 +87,34 @@ BsmtFinSF1: Type 1 finished square feet
 BsmtFinType2: Quality of second finished area (if present)
 BsmtFinSF2: Type 2 finished square feet
 BsmtUnfSF: Unfinished square feet of basement area
-
 LotFrontage: Linear feet of street connected to property
-
 Condition1: Proximity to main road or railroad
 (Condition2: Proximity to main road or railroad (if a second is present))
-
 Foundation: Type of foundation
 LowQualFinSF: Low quality finished square feet (all floors) : surface de mauvaise qualité
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Ça dégage :
-Street: Type of road access
+Street: Type of road access 
 LotShape: General shape of property
 LandContour: Flatness of the property
-PavedDrive: Paved driveway
+PavedDrive: Paved driveway (LINEARITE OBSERV SUR GRAPH)
 
 WoodDeckSF: Wood deck area in square feet
 MiscFeature: Miscellaneous feature not covered in other categories
