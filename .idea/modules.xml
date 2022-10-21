@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/machine_learning_fil_rouge.iml" filepath="$PROJECT_DIR$/.idea/machine_learning_fil_rouge.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../TP_TITANIC/.idea/titanic.iml" filepath="$PROJECT_DIR$/../TP_TITANIC/.idea/titanic.iml" />
     </modules>
   </component>
 </project>
